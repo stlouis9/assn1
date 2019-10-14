@@ -1,4 +1,6 @@
 Robert St. Louis
 A01045783
 
-x% Complete
+25% Complete
+
+only matrix class functionality exists.
